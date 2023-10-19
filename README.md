@@ -1,5 +1,5 @@
-# AIventura: Asistente Inteligente para CentrAlizer
-<img width="160" alt="Captura de pantalla 2023-10-07 a las 14 46 05" src="https://github.com/marinab12/AIventura/assets/56153026/f62fd383-d762-4972-8120-c9fff16fca5a">
+# <p> <img width="160" alt="Captura de pantalla 2023-10-07 a las 14 46 05"  AIventura: Asistente Inteligente para CentrAlizer
+src="https://github.com/marinab12/AIventura/assets/56153026/f62fd383-d762-4972-8120-c9fff16fca5a">
 El equipo de AIventura ha desarrollado el código de este repositorio para el hackathon organizado por CaixaBank Tech: InnovaHack, celebrado el 19 de Octubre de 2023.
 
 
