@@ -5,7 +5,7 @@ Este código combina técnicas de Prompt Engineering, [herramientas de Langchain
 
 ## Guía de Inicio Rápido:
 1. Clona el repositorio: `git clone https://github.com/marinab12/AIventura.git`
-2. Configura tus credenciales de OpenAI siguiendo [este enlace](docs/openai-credentials.md).
+2. Configura tus credenciales de OpenAI.
 4. Ejecuta el código y comienza a interactuar con el asistente.
 
 
