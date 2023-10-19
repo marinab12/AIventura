@@ -4,7 +4,7 @@ El equipo de AIventura ha desarrollado el código de este repositorio para el ha
 Este código combina técnicas de Prompt Engineering, [herramientas de Langchain](https://python.langchain.com/docs/modules/agents/tools/) y la potencia de la API de [OpenAI](https://platform.openai.com/) para entender y generar texto. El resultado es la simulación del comportamiento de un asistente inteligente que facilita la creación y gestión de proyectos a los empleados de CaixaBank Tech en la plataforma CentrAlizer.
 
 <p align="center">
-  <img width="600" height="365" src="video_gthub.mp4">
+  <img width="600" height="365" src="./media/demo_github.mp4">
 </p>
 
 ## Guía de Inicio Rápido:
